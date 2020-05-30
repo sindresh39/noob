@@ -1,0 +1,2 @@
+# noob
+Learn programing
